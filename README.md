@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adela-Ciucu
 - 👀 I’m interested in building the front-end portion of websites and web aplication
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I learned HTML and CSS and I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
